@@ -1,0 +1,2 @@
+# Event-registration
+Django project
